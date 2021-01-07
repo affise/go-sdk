@@ -1,0 +1,44 @@
+{
+   "status":1,
+   "payment_systems":[
+      {
+         "id":2,
+         "lang_label":"Wire transfer",
+         "fields":[
+            {
+               "id":1,
+               "lang_label":"IBAN\/Account Number",
+               "required":true
+            },
+            {
+               "id":2,
+               "lang_label":"Swift\/BIC-Code",
+               "required":true
+            },
+            {
+               "id":3,
+               "lang_label":"Bank name",
+               "required":true
+            },
+            {
+               "id":4,
+               "lang_label":"Bank address",
+               "required":true
+            }
+         ],
+         "currency":null
+      },
+      {
+         "id":3,
+         "lang_label":"Webmoney WMZ",
+         "fields":[
+            {
+               "id":1,
+               "lang_label":"WMZ",
+               "required":true
+            }
+         ],
+         "currency":"AED"
+      }
+   ]
+}

@@ -1,0 +1,18 @@
+ {
+   "status": 1,
+   "data": {
+     "list": [
+       {
+         "offer": 1000,
+         "pid": 500,
+         "action_id": null,
+         "goal": null,
+         "ip": null,
+         "ua": null,
+         "sum": null,
+         "comment": null
+       }
+     ]
+   },
+   "message": "Conversion import will take a few minutes"
+ }

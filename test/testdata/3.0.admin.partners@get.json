@@ -1,0 +1,202 @@
+{
+   "status":1,
+   "partners":[
+      {
+         "id":1,
+         "created_at":"2020-06-12 16:53:02",
+         "updated_at":"2015-08-25 22:10:16",
+         "email":"demo@demo.com",
+         "login":"demo@demo.com",
+         "ref_percent":"0",
+         "name":null,
+         "notes":"",
+         "manager":null,
+         "status":"active",
+         "level":0,
+         "payment_systems":[
+
+         ],
+         "customFields":[
+
+         ],
+         "balance":{
+            "USD":{
+               "balance":65.632,
+               "hold":0,
+               "available":65.632
+            }
+         },
+         "offersCount":35,
+         "api_key":"19673476a51fe659657ca8151644a28c",
+         "address_1":null,
+         "address_2":null,
+         "city":null,
+         "country":null,
+         "zip_code":null,
+         "phone":null,
+         "ref":"0",
+         "sub_accounts":{
+            "1":{
+               "value":"",
+               "except":0
+            },
+            "2":{
+               "value":"",
+               "except":0
+            }
+         },
+         "contactPerson":null,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":2,
+         "created_at":"2020-08-04 18:30:38",
+         "updated_at":"2020-12-14 11:10:41",
+         "email":"vvvv@bigfishmedia.com",
+         "login":"",
+         "ref_percent":"0",
+         "name":null,
+         "notes":"",
+         "manager":{
+            "id":"5f9008bfafd0ba5d88c4dee8",
+            "first_name":"Iren",
+            "last_name":"FSgdfddws",
+            "work_hours":"i.e. 10:00 - 20:00",
+            "email":"vcbmnvb@hgjgfkaf.com",
+            "skype":null,
+            "api_key":"5e862f6be57613b95a730e4ff88e7b56",
+            "roles":[
+               "ROLE_MANAGER_AFFILIATE",
+               "ROLE_SECTION_OFFER",
+               "ROLE_SECTION_PARTNER",
+               "ROLE_SECTION_CATEGORY",
+               "ROLE_SECTION_DASHBOARD",
+               "ROLE_SECTION_TICKET"
+            ],
+            "updated_at":"2020-12-14 11:03:15",
+            "created_at":"2020-10-21 13:09:03",
+            "last_login_at":"2020-11-04 11:10:03",
+            "type":"affiliate_manager",
+            "avatar":null
+         },
+         "status":"active",
+         "level":0,
+         "payment_systems":[
+
+         ],
+         "customFields":[
+            {
+               "name":"Last Name",
+               "value":"rtghr",
+               "label":"rtghr",
+               "id":2
+            },
+            {
+               "name":"First Name",
+               "value":"rthrt",
+               "label":"rthrt",
+               "id":3
+            },
+            {
+               "name":"Company Name",
+               "value":"rtgrtgrtghrth",
+               "label":"rtgrtgrtghrth",
+               "id":4
+            },
+            {
+               "name":"Website",
+               "value":"rtghrtg",
+               "label":"rtghrtg",
+               "id":5
+            },
+            {
+               "name":"Adress",
+               "value":"rtgrt",
+               "label":"rtgrt",
+               "id":6
+            },
+            {
+               "name":"City",
+               "value":"rt",
+               "label":"rt",
+               "id":7
+            },
+            {
+               "name":"Instant Messenger (Skype or Telegram)",
+               "value":"rtg",
+               "label":"rtg",
+               "id":8
+            },
+            {
+               "name":"What is/are your main vertical(s)?",
+               "value":[
+                  1
+               ],
+               "label":{
+                  "1":"Dating Adult"
+               },
+               "id":9
+            },
+            {
+               "name":"What GEO's are you promoting?",
+               "value":"kjsnht",
+               "label":"kjsnht",
+               "id":10
+            },
+            {
+               "name":"What is your current monthly revenue?",
+               "value":"1",
+               "label":"$0 - $500 USD per month",
+               "id":11
+            },
+            {
+               "name":"What are your primary traffic sources?",
+               "value":[
+                  1
+               ],
+               "label":{
+                  "1":"Banner/Display"
+               },
+               "id":12
+            }
+         ],
+         "balance":{
+            "USD":{
+               "balance":20254.1465,
+               "hold":0,
+               "available":20254.1465
+            }
+         },
+         "offersCount":32,
+         "api_key":"ca30365558190b87c9fe1c496e467c2d",
+         "address_1":"rthrth",
+         "address_2":null,
+         "city":"rthrt",
+         "country":"AE",
+         "zip_code":null,
+         "phone":null,
+         "ref":"0",
+         "sub_accounts":{
+            "1":{
+               "value":"",
+               "except":0
+            },
+            "2":{
+               "value":"",
+               "except":0
+            }
+         },
+         "contactPerson":"VVVVV@gmail.com",
+         "tags":[
+
+         ]
+      }
+   ],
+   "pagination":{
+      "per_page":100,
+      "total_count":19,
+      "page":1
+   }
+}

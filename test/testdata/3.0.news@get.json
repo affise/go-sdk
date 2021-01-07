@@ -1,0 +1,19 @@
+{
+   "status":1,
+   "items":{
+      "57a4914f3b7d9bbd358b45b6":{
+         "_id":{
+            "$id":"57a4914f3b7d9bbd358b45b6"
+         },
+         "title":"Title news",
+         "small_desc":"....",
+         "desc":"....",
+         "status":1,
+         "created_at":{
+            "sec":1470402895,
+            "usec":891000
+         }
+      }
+   },
+   "all_items":334
+}

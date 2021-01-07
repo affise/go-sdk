@@ -1,0 +1,33 @@
+{
+    "status": 1,
+    "advertiser": {
+        "id": "5b5f415035752723008b456a",
+        "title": "Test supplier",
+        "contact": null,
+        "email": null,
+        "url": null,
+        "manager": "",
+        "manager_obj": null,
+        "allowed_ip": [],
+        "disallowed_ip": [],
+        "skype": null,
+        "note": null,
+        "address_1": null,
+        "address_2": null,
+        "city": null,
+        "country": "AD",
+        "zip_code": null,
+        "vat_code": null,
+        "sub_accounts": {
+            "1": {
+                "value": null,
+                "except": false
+            },
+            "2": {
+                "value": null,
+                "except": false
+            }
+        },
+        "hash_password": null
+    }
+}

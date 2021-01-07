@@ -1,0 +1,8 @@
+{
+   "status":1,
+   "types":[
+      "wi-fi",
+      "cellular",
+      "other"
+   ]
+}

@@ -1,0 +1,13 @@
+{
+   "status":1,
+   "types":[
+        "mediahub",
+        "mobile",
+        "ereader",
+        "console",
+        "tv",
+        "tablet",
+        "desktop",
+        "smartwatch"
+   ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": 1,
+  "quotes": [
+    {
+      "_id": 2,
+      "code": "USD",
+      "active": true,
+      "default": true,
+      "rate": 1,
+      "min_payment": 20,
+      "is_crypto": null
+    }
+  ]
+}

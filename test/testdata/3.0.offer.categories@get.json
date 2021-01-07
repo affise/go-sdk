@@ -1,0 +1,15 @@
+{
+   "status":1,
+   "categories":[
+      {
+         "id":"5368a3973b7d9b4d5d59f1ca",
+         "title":"..."
+      }
+   ],
+   "pagination":{
+      "per_page":1,
+      "total_count":11,
+      "page":1,
+      "next_page":2
+   }
+}

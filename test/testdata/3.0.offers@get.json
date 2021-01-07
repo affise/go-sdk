@@ -1,0 +1,237 @@
+{
+   "status":1,
+   "offers":[
+      {
+        "id": 331,
+        "offer_id": "5bdffa7339f65625008b4568",
+        "advertiser": "5bc9d7c16d73e41c008b4567",
+        "external_offer_id": "",
+        "bundle_id": "",
+        "hide_payments": false,
+        "title": "blabla",
+        "macro_url": "",
+        "url": "",
+        "cross_postback_url":"http:\/\/test-url.com",
+        "url_preview": "",
+        "preview_url": "",
+        "domain_url": "",
+        "trafficback_url": "",
+        "use_https": true,
+        "use_http": true,
+        "description_lang": {
+          "ru" : "Описание",
+          "en" : "Description"
+        },
+        "sources": [
+          {
+            "id": "51f531f53b7d9b1e0382f6d9",
+            "title": "Web sites",
+            "allowed": 1
+          }
+        ],
+        "logo": "http:\/\/affise.admin\/images\/cpa\/logos\/787450449.jpeg",
+        "logo_source": "",
+        "status": "active",
+        "tags": [],
+        "privacy": "public",
+        "is_top": 0,
+        "payments": [
+          {
+            "countries": [
+              "kz"
+            ],
+            "cities": [
+              {
+                "country_code": "KZ",
+                "id": 563497,
+                "name": "Maksut",
+                "region_code": "Qostanay Oblysy"
+              }
+            ],
+            "devices": [],
+            "os": [],
+            "goal": "1",
+            "revenue": 500,
+            "currency": "usd",
+            "title": "goal1",
+            "type": "fixed",
+            "country_exclude": false,
+            "total": 1000,
+            "with_regions": false,
+            "url": null
+          }
+        ],
+        "partner_payments": [],
+        "landings": [
+          {
+            "id": 1,
+            "title": "...",
+            "url": "http://affise.com/l1/",
+            "url_preview": "http://affise.com/l1/",
+            "type": "landing"
+          }
+        ],
+        "strictly_country": 0,
+        "strictly_os": [],
+        "strictly_brands": [],
+        "strictly_connection_type": null,
+        "restriction_isp": null,
+        "targeting": [
+          {
+            "country": {
+              "allow": [],
+              "deny": []
+            },
+            "region": {
+              "allow": [],
+              "deny": []
+            },
+            "city": {
+              "allow": [],
+              "deny": []
+            },
+            "os": {
+              "allow": [],
+              "deny": []
+            },
+            "isp": {
+              "allow": [],
+              "deny": []
+            },
+            "ip": {
+              "allow": [],
+              "deny": []
+            },
+            "browser": {
+              "allow": [],
+              "deny": []
+            },
+            "brand": {
+              "allow": [],
+              "deny": []
+            },
+            "device_type": [],
+            "connection": [],
+            "affiliate_id": [],
+            "sub": {
+              "allow": [],
+              "deny": [],
+              "deny_groups": []
+            }
+          }
+        ],
+        "is_redirect_overcap": false,
+        "notice_percent_overcap": 0,
+        "hold_period": 0,
+        "categories": [
+          "...",
+          "..."
+        ],
+        "full_categories": [
+          {
+            "id": "5368afb23b7d9b4d5d505342",
+            "title": "..."
+          },
+          {
+            "id": "55b204663b7d9b460b8b45b2",
+            "title": "..."
+          }
+        ],
+        "cr": 0,
+        "epc": 0,
+        "notes": "",
+        "allowed_ip": "",
+        "disallowed_ip": "",
+        "hash_password": "",
+        "allow_deeplink": 0,
+        "hide_referer": 0,
+        "start_at": "2018-11-06 12:35:00",
+        "stop_at": "",
+        "auto_offer_connect": 0,
+        "required_approval": false,
+        "is_cpi": false,
+        "creatives": [],
+        "creatives_zip": null,
+        "created_at": "2018-11-05 11:08:19",
+        "sub_accounts": {
+          "1": {
+            "value": "",
+            "except": false
+          },
+          "2": {
+            "value": "",
+            "except": false
+          }
+        },
+        "kpi": {
+          "ru": "",
+          "en": "",
+          "es": "",
+          "ka": "",
+          "vi": ""
+        },
+        "strictly_isp": [],
+        "caps": [
+          {
+            "period": "day",
+            "type": "conversions",
+            "value": 100,
+            "goal_type": "exact",
+            "goals": {
+              "1": "Install"
+            },
+            "affiliate_type": "exact",
+            "affiliates": [
+              500,
+              600
+            ]
+          },
+          {
+            "period": "month",
+            "type": "budget",
+            "value": 100,
+            "goal_type": "each",
+            "goals": [],
+            "affiliate_type": "each",
+            "affiliates": []
+          },
+          {
+            "period": "all",
+            "type": "budget",
+            "value": 100,
+            "goal_type": "all",
+            "goals": [],
+            "affiliate_type": "all",
+            "affiliates": []
+          }
+        ],
+        "commission_tiers" : [
+          {
+            "affiliate_type": "exact",
+            "affiliates": [
+              1
+            ],
+            "goals": [],
+            "timeframe": "month",
+            "type": "budget",
+            "value": 55.6,
+            "target_goals": [],
+            "modifier_type": "to_percent",
+            "modifier_value": 10.02,
+            "modifier_payment_type": "payout"
+          }
+        ],
+        "updated_at": "2019-02-08 10:03:38",
+        "allow_impressions": false,
+        "smartlink_categories": [],
+        "uniq_ip_only": false,
+        "reject_not_uniq_ip": false
+      }
+   ],
+   "pagination":{
+      "per_page":1,
+      "total_count":176,
+      "page":1,
+      "next_page":2
+   }
+}

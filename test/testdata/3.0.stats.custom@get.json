@@ -1,0 +1,37 @@
+{
+  "status": 1,
+  "stats": [
+    {
+      "slice": {
+        "year": 2017,
+        "month": 3,
+        "day": 1
+      },
+      "traffic": {
+        "raw": "1607530",
+        "uniq": "1468939"
+      },
+      "actions": {
+        "total": {
+          "revenue": 1252,
+          "charge": 1352.52,
+          "earning": 100.52,
+          "null": 825,
+          "count": 1092
+        },
+        "confirmed": {
+          "revenue": 1252,
+          "charge": 1352.52,
+          "earning": 100.52,
+          "null": 728,
+          "count": 995
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "per_page": 100,
+    "total_count": 1,
+    "page": 1
+  }
+}

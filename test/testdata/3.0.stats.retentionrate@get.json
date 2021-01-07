@@ -1,0 +1,21 @@
+{
+    "status":1,
+    "stats":[
+        {
+            "affiliate_id":1,
+            "date":"2018-10-18",
+            "rr_install":66.66,
+            "rr_other1":100,
+            "rr_other2":33.33,
+            "install_count":3
+        },
+        {
+            "affiliate_id":1,
+            "date":"2018-10-19",
+            "rr_install":0,
+            "rr_other1":100,
+            "rr_other2":0,
+            "install_count":1
+        }
+    ]
+}

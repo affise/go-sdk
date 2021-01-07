@@ -1,0 +1,20 @@
+{
+    "oses":{
+       "0":"Firefox OS",
+       "1":"3DS System Software",
+       "2":"DSi System Software",
+       "4":"VictorReader Stream",
+       "5":"ThreadX",
+       "6":"Feedfetcher",
+       "7":"Maemo",
+       "8":"Series 60",
+       "9":"Android with AOKP",
+       "10":"Apple TV Software"
+    },
+    "pagination":{
+       "page":1,
+       "per_page":2147483647,
+       "total_count":99
+    },
+    "status":1
+}

@@ -1,0 +1,15 @@
+{
+   "status":1,
+   "regions":[
+      {
+        "id":2,
+        "name":"Alaska",
+        "country_code":"US"
+      },
+      {
+        "id":1,
+        "name":"Alabama",
+        "country_code":"US"
+      }
+    ]
+}

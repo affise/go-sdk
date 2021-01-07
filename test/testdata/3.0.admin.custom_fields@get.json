@@ -1,0 +1,12 @@
+{
+   "status":1,
+   "fields":[
+      {
+         "id":1,
+         "name":"Skype",
+         "required":false,
+         "field_type":"text",
+         "field_values":null
+      }
+   ]
+}

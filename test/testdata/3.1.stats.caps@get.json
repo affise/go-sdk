@@ -1,0 +1,29 @@
+{
+  "status": 1,
+  "stats": [
+    {
+      "offer_id": 10,
+      "stats": [
+        {
+          "affiliate_type": "string",
+          "affiliates": [],
+          "countries": [
+            "string"
+          ],
+          "country_type": "string",
+          "current_value": 0,
+          "goal_stats": {
+          },
+          "goal_type": "string",
+          "goals": [],
+          "id": "string",
+          "is_remaining": true,
+          "reset_to_value": 0,
+          "timeframe": "string",
+          "type": "string",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+   "cities":[
+      {
+         "country_code": "DE",
+         "id": 79729,
+         "name": "Thallichtenberg",
+         "region_code": "Rheinland-Pfalz"
+      },
+      {
+         "country_code": "DE",
+         "id": 40034,
+         "name": "Sindelfingen",
+         "region_code": "Baden-Wurttemberg"
+      },
+      {
+         "country_code": "DE",
+         "id": 75980,
+         "name": "Hofkirchen",
+         "region_code": "Bayern"
+      }
+   ],
+   "pagination":{
+      "page":1,
+      "per_page":2147483647,
+      "total_count":3
+   },
+   "status":1
+}

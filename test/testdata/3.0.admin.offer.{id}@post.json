@@ -1,0 +1,101 @@
+{
+   "status":1,
+   "offer":{
+      "id":936,
+      "offer_id":"5943f7307e28fe9a1f8b456d",
+      "advertiser":"573c69a33b7d9b0e638b4576",
+      "hide_payments":false,
+      "title":"test_edit",
+      "macro_url":null,
+      "url":"http:\/\/affise.com",
+      "cross_postback_url":"http:\/\/test-url.com",
+      "url_preview":"http:\/\/preview.affise.com",
+      "preview_url":"http:\/\/preview.affise.com",
+      "domain_url":"affise.tds",
+      "use_https":false,
+      "use_http":true,
+      "description_lang": {
+          "ru" : "Описание",
+          "en" : "Description"
+      },
+      "sources":[
+
+      ],
+      "logo":"\/images\/cpa\/logos\/",
+      "status":"stopped",
+      "tags":["default"],
+      "privacy":"public",
+      "is_top":0,
+      "payments":[
+
+      ],
+      "partner_payments":[
+
+      ],
+      "landings":[
+
+      ],
+      "strictly_country":0,
+      "strictly_os":[],
+      "strictly_connection_type": "wi-fi",
+      "is_redirect_overcap":false,
+      "notice_percent_overcap":null,
+      "hold_period":0,
+      "categories":[
+
+      ],
+      "full_categories":[
+
+      ],
+      "cr":0,
+      "epc":0,
+      "notes":null,
+      "allowed_ip":"",
+      "hash_password":null,
+      "allow_deeplink":0,
+      "hide_referer":0,
+      "start_at":"2017-06-17 12:35:00",
+      "stop_at":null,
+      "auto_offer_connect":null,
+      "required_approval":false,
+      "is_cpi":false,
+      "creatives":[],
+      "creatives_zip":null,
+      "smartlink_categories": ["595e3b5b7e28fede7b8b456d"],
+      "click_session":"1y",
+      "minimal_click_session":"0s",
+      "sub_restrictions": [
+        {
+          "sub1": "sub_value1",
+          "sub2": "sub_value2"
+        }
+      ],
+      "caps_timezone": "Europe/Moscow",
+      "strictly_isp": [
+        "595e3b5b7e28fede7b8b456d"
+      ],
+      "hide_caps":0,
+      "caps_status": [
+        "confirmed"
+      ],
+      "caps_goal_overcap" : "install",
+      "commission_tiers" : [
+        {
+          "affiliate_type": "exact",
+          "affiliates": [
+              1
+          ],
+          "goals": [],
+          "timeframe": "month",
+          "type": "budget",
+          "value": 55.6,
+          "target_goals": [],
+          "modifier_type": "to_percent",
+          "modifier_value": 10.02,
+          "modifier_payment_type": "payout"
+        }
+      ],
+      "consider_personal_targeting_only" : false
+   },
+   "id":936
+}

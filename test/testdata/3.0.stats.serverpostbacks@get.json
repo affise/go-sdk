@@ -1,0 +1,64 @@
+{
+   "status":1,
+   "postbacks":[
+      {
+         "_id":{
+            "$id":"59359e1d7e28feb7568b4569"
+         },
+         "_get":{
+            "clickid":"59359dcb7e28fee0558b4567"
+         },
+         "_post":[
+
+         ],
+         "date":{
+            "sec":1496686109,
+            "usec":35000
+         },
+         "get":"{\u0022clickid\u0022:\u002259359dcb7e28fee0558b4567\u0022}",
+         "post":"[]",
+         "server":"127.0.0.1",
+         "response":"{\n    \u0022status\u0022: 1\n}",
+         "track":{
+            "id":"59359dcb7e28fee0558b4567",
+            "ip":"127.0.0.1",
+            "ua":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+            "country":"US",
+            "city":"New York",
+            "device":"Other",
+            "os":"Mac OS X 10.12.5",
+            "browser":"Chrome 58.0.3029",
+            "offer":{
+               "id":934,
+               "offer_id":"59313e097960ad2774b4f274",
+               "title":"HD-smart [Web]",
+               "preview_url":"http:\/\/affise.com\/desktop\/1\/"
+            },
+            "referrer":"",
+            "click_id":"59359dcb7e28fee0558b4567",
+            "sub1":"",
+            "sub2":"",
+            "sub3":"",
+            "sub4":"",
+            "sub5":"",
+            "offer_id":"934",
+            "conversion_id":null,
+            "ios_idfa":null,
+            "android_id":null,
+            "created_at":"2017-06-06 03:07:07",
+            "uniq":1,
+            "cbid":null,
+            "partner":{
+               "id":"610",
+               "login":"affiliate",
+               "email":"affi@lia.te"
+            }
+         }
+      }
+   ],
+   "pagination":{
+      "per_page":100,
+      "total_count":1,
+      "page":1
+   }
+}

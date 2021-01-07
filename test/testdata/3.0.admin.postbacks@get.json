@@ -1,0 +1,37 @@
+{
+   "status":1,
+   "postbacks":[
+      {
+         "id":8,
+         "url":"http://...",
+         "offer_id":null,
+         "status":"pending",
+         "goal":"",
+         "created":"2018-01-30 18:31:52",
+         "forced":"0"
+      },
+      {
+         "id":22,
+         "url":"http://...",
+         "offer_id":"17",
+         "status":null,
+         "goal":"",
+         "created":"2018-05-14 12:39:51",
+         "forced":"0"
+      },
+      {
+         "id":23,
+         "url":"http://...",
+         "offer_id":"17",
+         "status":"confirmed",
+         "goal":"1",
+         "created":"2018-05-14 12:41:00",
+         "forced":"0"
+      }
+   ],
+   "pagination":{
+      "per_page":100,
+      "total_count":4,
+      "page":1
+   }
+}

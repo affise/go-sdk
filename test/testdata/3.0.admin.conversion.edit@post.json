@@ -1,0 +1,13 @@
+{
+   "status":1,
+   "data":{
+      "ids":[
+         "59359e1d7e28feb7568b456a"
+      ],
+      "status":"confirmed",
+      "currency":null,
+      "payouts":null,
+      "revenue":null
+   },
+   "message":"Conversion changes will take a few minutes"
+}

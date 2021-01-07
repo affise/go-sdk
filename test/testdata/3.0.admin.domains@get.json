@@ -1,0 +1,15 @@
+{
+   "status":1,
+   "domains":[
+      {
+         "id":1,
+         "url":"domain1.com",
+         "use_https": false
+      },
+      {
+         "id":2,
+         "url":"domain2.com",
+         "use_https": false
+      }
+   ]
+}

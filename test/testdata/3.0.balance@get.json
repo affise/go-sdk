@@ -1,0 +1,20 @@
+{
+   "status":1,
+   "balance":{
+      "RUB":{
+         "balance":0,
+         "hold":0,
+         "available":0
+      },
+      "USD":{
+         "balance":0,
+         "hold":0,
+         "available":0
+      },
+      "EUR":{
+         "balance":0,
+         "hold":0,
+         "available":0
+      }
+   }
+}

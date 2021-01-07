@@ -1,0 +1,652 @@
+{
+   "status": 1,
+   "tickets": [{
+      "id": "15",
+      "status": "open",
+      "type": "offer_request",
+      "title": "Connect offer MT Adult Dating Smartlink CPL WW (81)",
+      "description": "Emailing",
+      "created": "2020-11-07 18:30:45",
+      "updated": "2020-11-07 18:30:45",
+      "attachments": [],
+      "comments": {
+         "answers": 0,
+         "unread": 0
+      },
+      "partner": {
+         "id": 8,
+         "created_at": "2020-09-24 15:49:49",
+         "updated_at": "2020-12-14 11:09:22",
+         "email": "KKKKK@ad4offers.com",
+         "login": "Aminur@4343",
+         "ref_percent": null,
+         "name": "",
+         "notes": "affise",
+         "manager": {
+            "id": "5f9008bfafd0ba5d88c4dee8",
+            "first_name": "Iren",
+            "last_name": "FSgdfddws",
+            "work_hours": "i.e. 10:00 - 20:00",
+            "email": "vcbmnvb@hgjgfkaf.com",
+            "skype": null,
+            "api_key": "5e862f6be57613b95a730e4ff88e7b56",
+            "roles": [
+               "ROLE_MANAGER_AFFILIATE",
+               "ROLE_SECTION_OFFER",
+               "ROLE_SECTION_PARTNER",
+               "ROLE_SECTION_CATEGORY",
+               "ROLE_SECTION_DASHBOARD",
+               "ROLE_SECTION_TICKET"
+            ],
+            "updated_at": "2020-12-14 11:03:15",
+            "created_at": "2020-10-21 13:09:03",
+            "last_login_at": "2020-11-04 11:10:03",
+            "type": "affiliate_manager",
+            "avatar": null
+         },
+         "status": "active",
+         "level": 0,
+         "payment_systems": [],
+         "customFields": [{
+            "name": "Last Name",
+            "value": "Aminur",
+            "label": "Aminur",
+            "id": 2
+         }, {
+            "name": "First Name",
+            "value": "Rahman",
+            "label": "Rahman",
+            "id": 3
+         }, {
+            "name": "Company Name",
+            "value": "Aminur IT",
+            "label": "Aminur IT",
+            "id": 4
+         }, {
+            "name": "Website",
+            "value": "https://www.ad4offers.com/",
+            "label": "https://www.ad4offers.com/",
+            "id": 5
+         }, {
+            "name": "Adress",
+            "value": "Mymensingh",
+            "label": "Mymensingh",
+            "id": 6
+         }, {
+            "name": "City",
+            "value": "Dhaka",
+            "label": "Dhaka",
+            "id": 7
+         }, {
+            "name": "Instant Messenger (Skype or Telegram)",
+            "value": "live:aminurrahman750",
+            "label": "live:aminurrahman750",
+            "id": 8
+         }, {
+            "name": "What is/are your main vertical(s)?",
+            "value": [
+               1,
+               2,
+               5
+            ],
+            "label": {
+               "1": "Dating Adult",
+               "2": "Dating Mainstream",
+               "5": "Nutra"
+            },
+            "id": 9
+         }, {
+            "name": "What GEO's are you promoting?",
+            "value": "US,NZ,UK,CA,AU,ZA",
+            "label": "US,NZ,UK,CA,AU,ZA",
+            "id": 10
+         }, {
+            "name": "What is your current monthly revenue?",
+            "value": "4",
+            "label": "$5000 - $10000 USD per month",
+            "id": 11
+         }, {
+            "name": "What are your primary traffic sources?",
+            "value": [
+               2,
+               4
+            ],
+            "label": {
+               "2": "Email",
+               "4": "Social Media"
+            },
+            "id": 12
+         }
+         ],
+         "balance": {
+            "USD": {
+               "balance": 0,
+               "hold": 0,
+               "available": 0
+            }
+         },
+         "offersCount": 5,
+         "api_key": "c953bd90a6a715a5f95493c407840f5d",
+         "address_1": null,
+         "address_2": null,
+         "city": null,
+         "country": "BJ",
+         "zip_code": null,
+         "phone": null,
+         "ref": null,
+         "sub_accounts": {
+            "1": {
+               "value": "",
+               "except": 0
+            },
+            "2": {
+               "value": "",
+               "except": 0
+            }
+         },
+         "contactPerson": "KKKK@mediatransits.com",
+         "tags": null
+      },
+      "offer": {
+         "id": 81,
+         "offer_id": "5f61df8c134ed051008b4569",
+         "title": "MT Adult Dating Smartlink CPL WW",
+         "preview_url": "https://www.hookupshub.com/x/ua/jump/",
+         "cross_postback_url": "",
+         "description_lang": {
+            "ru": "",
+            "en": "",
+            "cn": "",
+            "es": "",
+            "ka": "",
+            "vi": "",
+            "my": "",
+            "pt": ""
+         },
+         "cr": 0,
+         "epc": 0,
+         "send_emails": false,
+         "logo": "https://offers-mediatransits.affise.com/images/cpa/logos/584284608.png",
+         "logo_source": "584284608.png",
+         "stop_at": null,
+         "sources": [{
+            "id": "51f531f53b7d9b1e0382f6d9",
+            "title": "Web sites",
+            "allowed": 1
+         }, {
+            "id": "51f532053b7d9b340eea741a",
+            "title": "Doorways",
+            "allowed": 0
+         }, {
+            "id": "51f532103b7d9b340e325f1c",
+            "title": "Context AD",
+            "allowed": 1
+         }, {
+            "id": "51f5322d3b7d9b340eabb872",
+            "title": "Brand Context AD",
+            "allowed": 1
+         }, {
+            "id": "51f532393b7d9b5e030908a0",
+            "title": "Teaser/banner AD",
+            "allowed": 1
+         }, {
+            "id": "51f5325e3b7d9b340e8a2b79",
+            "title": "Social networks: targeted AD",
+            "allowed": 1
+         }, {
+            "id": "51f532713b7d9b5e03b24520",
+            "title": "Social networks: publics, games, applications",
+            "allowed": 1
+         }, {
+            "id": "51f532873b7d9b5e03e88a74",
+            "title": "Emailing",
+            "allowed": 1
+         }, {
+            "id": "5432ffe43b7d9b615f4f7f2a",
+            "title": "Mobile traffic",
+            "allowed": 1
+         }, {
+            "id": "5432fff93b7d9b615fab559d",
+            "title": "ClickUnder/PopUnder",
+            "allowed": 0
+         }, {
+            "id": "5433000d3b7d9b615f6392b8",
+            "title": "Rebrokering",
+            "allowed": 0
+         }, {
+            "id": "5433001e3b7d9b456bc15573",
+            "title": "Incent traffic",
+            "allowed": 0
+         }
+         ],
+         "categories": [],
+         "full_categories": [],
+         "payments": [{
+            "countries": [],
+            "cities": [],
+            "country_exclude": false,
+            "title": "",
+            "goal": "1",
+            "revenue": 75,
+            "currency": "USD",
+            "type": "percent",
+            "devices": [],
+            "os": []
+         }
+         ],
+         "goals": {
+            "1": ""
+         },
+         "caps": [],
+         "caps_timezone": "Europe/Moscow",
+         "hide_caps": 0,
+         "required_approval": true,
+         "strictly_country": null,
+         "strictly_os": null,
+         "strictly_brands": null,
+         "is_cpi": false,
+         "kpi": {
+            "en": "<p>Please only good quality traffic, we are 100% untollarante to any fraud or bad quality<br />\r\nWe are private networks so we can make for you much more EPC that other that&#39;s why we need only super quality traffic</p>"
+         },
+         "creatives": [],
+         "creatives_zip": null,
+         "landings": [],
+         "links": [],
+         "macro_url": "",
+         "link": null,
+         "use_https": true,
+         "use_http": false,
+         "hold_period": 0,
+         "click_session": "1y",
+         "minimal_click_session": "0s",
+         "disabled_choice_postback_status": false,
+         "strictly_isp": [],
+         "restriction_isp": null,
+         "search_empty_sub": null,
+         "targeting": [{
+            "country": {
+               "allow": [],
+               "deny": []
+            },
+            "region": {
+               "allow": [],
+               "deny": []
+            },
+            "city": {
+               "allow": [],
+               "deny": []
+            },
+            "os": {
+               "allow": [],
+               "deny": []
+            },
+            "isp": {
+               "allow": [],
+               "deny": []
+            },
+            "ip": {
+               "allow": [],
+               "deny": []
+            },
+            "browser": {
+               "allow": [],
+               "deny": []
+            },
+            "brand": {
+               "allow": [],
+               "deny": []
+            },
+            "device_type": [],
+            "connection": [],
+            "affiliate_id": [],
+            "sub": {
+               "allow": [],
+               "deny": [],
+               "deny_groups": []
+            },
+            "url": "",
+            "block_proxy": false
+         }
+         ],
+         "schedule": {
+            "enabled": false,
+            "date_start": "",
+            "date_to": "",
+            "timezone": "Europe/Moscow"
+         },
+         "io_document": null,
+         "consider_personal_targeting_only": false,
+         "hosts_only": false,
+         "impressions_link": null,
+         "uniq_ip_only": false,
+         "reject_not_unique_ip": false
+      }
+   }, {
+      "id": "14",
+      "status": "closed",
+      "type": "offer_request",
+      "title": "Connect offer MT Adult Dating Smartlink CPL WW (81)",
+      "description": "approve please",
+      "created": "2020-11-03 22:07:48",
+      "updated": "2020-11-03 22:07:48",
+      "attachments": [],
+      "comments": {
+         "answers": 0,
+         "unread": 0
+      },
+      "partner": {
+         "id": 20,
+         "created_at": "2020-11-02 15:48:54",
+         "updated_at": "2020-12-14 11:06:59",
+         "email": "ghjrsth@gmail.com",
+         "login": "",
+         "ref_percent": null,
+         "name": "",
+         "notes": "",
+         "manager": {
+            "id": "5f9008bfafd0ba5d88c4dee8",
+            "first_name": "Iren",
+            "last_name": "FSgdfddws",
+            "work_hours": "i.e. 10:00 - 20:00",
+            "email": "vcbmnvb@hgjgfkaf.com",
+            "skype": null,
+            "api_key": "5e862f6be57613b95a730e4ff88e7b56",
+            "roles": [
+               "ROLE_MANAGER_AFFILIATE",
+               "ROLE_SECTION_OFFER",
+               "ROLE_SECTION_PARTNER",
+               "ROLE_SECTION_CATEGORY",
+               "ROLE_SECTION_DASHBOARD",
+               "ROLE_SECTION_TICKET"
+            ],
+            "updated_at": "2020-12-14 11:03:15",
+            "created_at": "2020-10-21 13:09:03",
+            "last_login_at": "2020-11-04 11:10:03",
+            "type": "affiliate_manager",
+            "avatar": null
+         },
+         "status": "active",
+         "level": 0,
+         "payment_systems": [],
+         "customFields": [{
+            "name": "Last Name",
+            "value": "Nazmul",
+            "label": "Nazmul",
+            "id": 2
+         }, {
+            "name": "First Name",
+            "value": "Haque",
+            "label": "Haque",
+            "id": 3
+         }, {
+            "name": "Company Name",
+            "value": "cpamaxoffers",
+            "label": "cpamaxoffers",
+            "id": 4
+         }, {
+            "name": "Website",
+            "value": "https://partners.cpamaxoffers.com",
+            "label": "https://partners.cpamaxoffers.com",
+            "id": 5
+         }, {
+            "name": "Adress",
+            "value": "Rajshahi",
+            "label": "Rajshahi",
+            "id": 6
+         }, {
+            "name": "City",
+            "value": "Rajshahi",
+            "label": "Rajshahi",
+            "id": 7
+         }, {
+            "name": "Instant Messenger (Skype or Telegram)",
+            "value": "nazmulh626",
+            "label": "nazmulh626",
+            "id": 8
+         }, {
+            "name": "What is/are your main vertical(s)?",
+            "value": [
+               1,
+               2
+            ],
+            "label": {
+               "1": "Dating Adult",
+               "2": "Dating Mainstream"
+            },
+            "id": 9
+         }, {
+            "name": "What GEO's are you promoting?",
+            "value": "Us",
+            "label": "Us",
+            "id": 10
+         }, {
+            "name": "What is your current monthly revenue?",
+            "value": "3",
+            "label": "$1000- $5000 USD per month",
+            "id": 11
+         }, {
+            "name": "What are your primary traffic sources?",
+            "value": [
+               2,
+               3,
+               4
+            ],
+            "label": {
+               "2": "Email",
+               "3": "Media Buy",
+               "4": "Social Media"
+            },
+            "id": 12
+         }
+         ],
+         "balance": {
+            "USD": {
+               "balance": 0,
+               "hold": 0,
+               "available": 0
+            }
+         },
+         "offersCount": 9,
+         "api_key": "6f78a94a7ccba455b7ddd8b3bd50153e",
+         "address_1": null,
+         "address_2": null,
+         "city": null,
+         "country": "BD",
+         "zip_code": null,
+         "phone": null,
+         "ref": null,
+         "sub_accounts": {
+            "1": {
+               "value": "",
+               "except": 0
+            },
+            "2": {
+               "value": "",
+               "except": 0
+            }
+         },
+         "contactPerson": "yugh@mediatransjits.com",
+         "tags": null
+      },
+      "offer": {
+         "id": 81,
+         "offer_id": "5f61df8c134ed051008b4569",
+         "title": "MT Adult Dating Smartlink CPL WW",
+         "preview_url": "https://www.hookupshub.com/x/ua/jump/",
+         "cross_postback_url": "",
+         "description_lang": {
+            "ru": "",
+            "en": "",
+            "cn": "",
+            "es": "",
+            "ka": "",
+            "vi": "",
+            "my": "",
+            "pt": ""
+         },
+         "cr": 0,
+         "epc": 0,
+         "send_emails": false,
+         "logo": "https://offers-mediatransits.affise.com/images/cpa/logos/584284608.png",
+         "logo_source": "584284608.png",
+         "stop_at": null,
+         "sources": [{
+            "id": "51f531f53b7d9b1e0382f6d9",
+            "title": "Web sites",
+            "allowed": 1
+         }, {
+            "id": "51f532053b7d9b340eea741a",
+            "title": "Doorways",
+            "allowed": 0
+         }, {
+            "id": "51f532103b7d9b340e325f1c",
+            "title": "Context AD",
+            "allowed": 1
+         }, {
+            "id": "51f5322d3b7d9b340eabb872",
+            "title": "Brand Context AD",
+            "allowed": 1
+         }, {
+            "id": "51f532393b7d9b5e030908a0",
+            "title": "Teaser/banner AD",
+            "allowed": 1
+         }, {
+            "id": "51f5325e3b7d9b340e8a2b79",
+            "title": "Social networks: targeted AD",
+            "allowed": 1
+         }, {
+            "id": "51f532713b7d9b5e03b24520",
+            "title": "Social networks: publics, games, applications",
+            "allowed": 1
+         }, {
+            "id": "51f532873b7d9b5e03e88a74",
+            "title": "Emailing",
+            "allowed": 1
+         }, {
+            "id": "5432ffe43b7d9b615f4f7f2a",
+            "title": "Mobile traffic",
+            "allowed": 1
+         }, {
+            "id": "5432fff93b7d9b615fab559d",
+            "title": "ClickUnder/PopUnder",
+            "allowed": 0
+         }, {
+            "id": "5433000d3b7d9b615f6392b8",
+            "title": "Rebrokering",
+            "allowed": 0
+         }, {
+            "id": "5433001e3b7d9b456bc15573",
+            "title": "Incent traffic",
+            "allowed": 0
+         }
+         ],
+         "categories": [],
+         "full_categories": [],
+         "payments": [{
+            "countries": [],
+            "cities": [],
+            "country_exclude": false,
+            "title": "",
+            "goal": "1",
+            "revenue": 75,
+            "currency": "USD",
+            "type": "percent",
+            "devices": [],
+            "os": []
+         }
+         ],
+         "goals": {
+            "1": ""
+         },
+         "caps": [],
+         "caps_timezone": "Europe/Moscow",
+         "hide_caps": 0,
+         "required_approval": true,
+         "strictly_country": null,
+         "strictly_os": null,
+         "strictly_brands": null,
+         "is_cpi": false,
+         "kpi": {
+            "en": "<p>Please only good quality traffic, we are 100% untollarante to any fraud or bad quality<br />\r\nWe are private networks so we can make for you much more EPC that other that&#39;s why we need only super quality traffic</p>"
+         },
+         "creatives": [],
+         "creatives_zip": null,
+         "landings": [],
+         "links": [],
+         "macro_url": "",
+         "link": null,
+         "use_https": true,
+         "use_http": false,
+         "hold_period": 0,
+         "click_session": "1y",
+         "minimal_click_session": "0s",
+         "disabled_choice_postback_status": false,
+         "strictly_isp": [],
+         "restriction_isp": null,
+         "search_empty_sub": null,
+         "targeting": [{
+            "country": {
+               "allow": [],
+               "deny": []
+            },
+            "region": {
+               "allow": [],
+               "deny": []
+            },
+            "city": {
+               "allow": [],
+               "deny": []
+            },
+            "os": {
+               "allow": [],
+               "deny": []
+            },
+            "isp": {
+               "allow": [],
+               "deny": []
+            },
+            "ip": {
+               "allow": [],
+               "deny": []
+            },
+            "browser": {
+               "allow": [],
+               "deny": []
+            },
+            "brand": {
+               "allow": [],
+               "deny": []
+            },
+            "device_type": [],
+            "connection": [],
+            "affiliate_id": [],
+            "sub": {
+               "allow": [],
+               "deny": [],
+               "deny_groups": []
+            },
+            "url": "",
+            "block_proxy": false
+         }
+         ],
+         "schedule": {
+            "enabled": false,
+            "date_start": "",
+            "date_to": "",
+            "timezone": "Europe/Moscow"
+         },
+         "io_document": null,
+         "consider_personal_targeting_only": false,
+         "hosts_only": false,
+         "impressions_link": null,
+         "uniq_ip_only": false,
+         "reject_not_unique_ip": false
+      }
+   }
+   ],
+   "pagination": {
+      "per_page": 100,
+      "total_count": 14,
+      "page": 1
+   }
+}

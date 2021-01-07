@@ -1,0 +1,17 @@
+{
+   "browsers":[
+      "Yahoo Mobile Messenger for Android",
+      "Dillo",
+      "lolifox",
+      "Facebook for Windows",
+      "Web Light",
+      "CometBird",
+      "MetaCert Safe iPad Browser"
+   ],
+   "pagination":{
+      "page":1,
+      "per_page":2147483647,
+      "total_count":527
+   },
+   "status":1
+}

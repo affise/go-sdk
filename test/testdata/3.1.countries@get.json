@@ -1,0 +1,25 @@
+{
+   "countries":[
+      {
+         "code":"KP",
+         "name":"North Korea"
+      },
+      {
+         "code":"PF",
+         "name":"French Polynesia"
+      },
+      {
+         "code":"EG",
+         "name":"Egypt"
+      },
+      {
+         "code":"DE",
+         "name":"Germany"
+      },
+      {
+         "code":"GI",
+         "name":"Gibraltar"
+      }
+   ],
+   "status":1
+}

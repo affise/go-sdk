@@ -1,0 +1,36 @@
+{
+    "status": 1,
+    "stats": [
+        {
+            "slice": {
+                "trafficback_reason": "unknown-affiliate"
+            },
+            "traffic": {
+                "raw": "0",
+                "uniq": "0"
+            },
+            "actions": {},
+            "views": 0,
+            "ctr": 0,
+            "trafficback": 1
+        },
+        {
+            "slice": {
+                "trafficback_reason": "invalid-affiliate"
+            },
+            "traffic": {
+                "raw": "0",
+                "uniq": "0"
+            },
+            "actions": {},
+            "views": 0,
+            "ctr": 0,
+            "trafficback": 47
+        }
+    ],
+    "pagination": {
+        "per_page": 100,
+        "total_count": 2,
+        "page": 1
+    }
+}

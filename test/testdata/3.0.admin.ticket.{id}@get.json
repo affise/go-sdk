@@ -1,0 +1,120 @@
+{
+    "status": 1,
+    "ticket": {
+        "id": "1",
+        "status": "closed",
+        "type": "common",
+        "title": "Connect offer",
+        "description": "I want to connect offer",
+        "partner": {
+            "id": 3,
+            "created_at": "2018-06-20 14:42:40",
+            "updated_at": "2018-06-20 14:42:40",
+            "email": "testtest@gmail.com",
+            "login": "testtest@gmail.com",
+            "ref_percent": null,
+            "name": "",
+            "notes": "",
+            "manager": null,
+            "status": "not active",
+            "level": 0,
+            "payment_systems": [],
+            "customFields": [],
+            "balance": {
+                "USD": {
+                    "balance": 0,
+                    "hold": 0,
+                    "available": 0
+                }
+            },
+            "offersCount": 0,
+            "api_key": "742638e984afa1dc12983966b4d424228b483b30",
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "country": null,
+            "zip_code": null,
+            "phone": null,
+            "ref": null
+        },
+        "offer": {
+            "id": 9,
+            "offer_id": "5b2ba4beb861fd58ad8b4670",
+            "title": "Offer",
+            "preview_url": "http://link.preview.com",
+            "description": "",
+            "cr": 7,
+            "epc": 0,
+            "logo": "",
+            "logo_source": null,
+            "stop_at": null,
+            "sources": [],
+            "categories": [],
+            "full_categories": [],
+            "countries": null,
+            "payments": [
+                {
+                    "countries": [],
+                    "cities": [],
+                    "country_exclude": false,
+                    "title": "RevShare",
+                    "goal": "1",
+                    "currency": "USD",
+                    "type": "percent",
+                    "devices": [],
+                    "os": []
+                },
+                {
+                    "countries": [],
+                    "cities": [],
+                    "country_exclude": false,
+                    "title": "Deposit",
+                    "goal": "3",
+                    "revenue": 0,
+                    "currency": "USD",
+                    "type": "fixed",
+                    "devices": [],
+                    "os": []
+                }
+            ],
+            "goals": {
+                "1": "RevShare",
+                "2": "RevShare",
+                "3": "Deposit",
+                "4": "Registration"
+            },
+            "caps": [],
+            "caps_timezone": "Europe/Moscow",
+            "cap": 0,
+            "hide_caps": 0,
+            "required_approval": false,
+            "strictly_country": 1,
+            "strictly_os": [],
+            "strictly_brands": null,
+            "is_cpi": false,
+            "kpi": {
+                "en": ""
+            },
+            "creatives": [],
+            "creatives_zip": null,
+            "landings": [],
+            "links": [],
+            "macro_url": "",
+            "link": null,
+            "use_https": false,
+            "use_http": true,
+            "hold_period": 0,
+            "click_session": "1y",
+            "disabled_choice_postback_status": false,
+            "strictly_isp": [],
+            "restriction_isp": [],
+            "impressions_link": null
+        },
+        "attachments": [
+      "http:\/\/api.dev.affise.com\/3.0\/admin\/ticket\/file\/23\/faafe9b1df79e05f4eaf8e6516d7bfafbde2e1f4.png"
+         ],
+        "created": "2018-09-12 12:05:18",
+        "updated": null
+    },
+    "id": "1"
+}

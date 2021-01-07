@@ -1,0 +1,13 @@
+{
+   "status":1,
+   "postback":{
+      "id":960,
+      "url":"http:\/\/affise.com",
+      "status":"by_creating",
+      "goal":null,
+      "created":"2017-06-20 02:17:58",
+      "updated_at":"2017-06-20 02:17:58",
+      "forced":"0",
+      "pid":"1"
+   }
+}

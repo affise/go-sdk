@@ -1,0 +1,214 @@
+{
+   "status":1,
+   "offer":{
+      "id": 906,
+      "offer_id": "5721f8e03b7d9b7f058b4568",
+      "advertiser": "56cc49dc3b7d9b89058b45f0",
+      "external_offer_id": "",
+      "bundle_id": "46cc97dc3b7d9b10758b45f0",
+      "hide_payments": false,
+      "title": "",
+      "macro_url": "",
+      "url": "http://.../desktop/1/?w=32&t=...&a1={clickid}&a5={pid}",
+      "cross_postback_url":"http:\/\/test-url.com",
+      "url_preview": "http://.../desktop/1/",
+      "preview_url": "http://.../desktop/1/",
+      "domain_url": "affise.tds",
+      "use_https": true,
+      "use_http": true,
+      "description_lang": {
+        "ru": "",
+        "en": "",
+        "es": "",
+        "ka": "",
+        "vi": ""
+      },
+      "sources": [],
+      "logo": "/images/cpa/logos/4228614618.png",
+      "logo_source": null,
+      "status": "active",
+      "tags": [],
+      "privacy": "public",
+      "is_top": 0,
+      "payments": [
+        {
+          "countries": [],
+          "cities": [],
+          "devices": [],
+          "os": [],
+          "goal": "1",
+          "total": 1020,
+          "revenue": 800,
+          "currency": "rub",
+          "title": "...",
+          "type": "fixed",
+          "url": null,
+          "country_exclude": false,
+          "with_regions": false
+        },
+        {
+          "countries": [],
+          "cities": [],
+          "devices": [],
+          "os": [],
+          "goal": "4",
+          "total": 1600,
+          "revenue": 1020,
+          "currency": "rub",
+          "title": "...",
+          "type": "fixed",
+          "url": null,
+          "country_exclude": false,
+          "with_regions": false
+        },
+        {
+          "countries": [],
+          "cities": [],
+          "devices": [],
+          "os": [
+            "Mac OS X"
+          ],
+          "goal": "1",
+          "total": 12345,
+          "revenue": 1234,
+          "currency": "usd",
+          "title": "",
+          "type": "fixed",
+          "url": null,
+          "country_exclude": false,
+          "with_regions": false
+        }
+      ],
+      "partner_payments": [
+        {
+          "countries": [],
+          "cities": [],
+          "devices": [],
+          "os": [],
+          "goal": "2",
+          "total": 1600,
+          "revenue": 900,
+          "currency": "usd",
+          "title": "...",
+          "type": "fixed",
+          "url": null,
+          "country_exclude": false,
+          "with_regions": false,
+          "partners": [
+            610
+          ]
+        }
+      ],
+      "landings": [],
+      "strictly_country": 0,
+      "strictly_os": [],
+      "strictly_brands": null,
+      "strictly_connection_type": "",
+      "is_redirect_overcap": false,
+      "notice_percent_overcap": 0,
+      "hold_period": 0,
+      "categories": [],
+      "full_categories": [],
+      "cr": 1.21,
+      "epc": 9.58,
+      "notes": null,
+      "allowed_ip": "",
+      "disallowed_ip": "",
+      "hash_password": "",
+      "allow_deeplink": 0,
+      "hide_referer": 0,
+      "start_at": "2018-11-05 12:35:00",
+      "stop_at": null,
+      "auto_offer_connect": null,
+      "required_approval": false,
+      "is_cpi": false,
+      "kpi": {
+        "ru": "",
+        "en": "",
+        "es": "",
+        "ka": "",
+        "vi": ""
+      },
+      "sub_restrictions": [],
+      "creatives": [],
+      "creatives_zip": null,
+      "sub_accounts": {
+        "1": {
+          "value": "",
+          "except": false
+        },
+        "2": {
+          "value": "",
+          "except": false
+        }
+      },
+      "redirect_type": "http302",
+      "caps": [
+        {
+          "period": "day",
+          "type": "conversions",
+          "value": 100,
+          "goal_type": "exact",
+          "goals": {
+            "1": "Install",
+            "2": "Register"
+          },
+          "affiliate_type": "exact",
+          "affiliates": [
+            500,
+            600
+          ]
+        },
+        {
+          "period": "month",
+          "type": "budget",
+          "value": 100,
+          "goal_type": "each",
+          "goals": {},
+          "affiliate_type": "each",
+          "affiliates": []
+        },
+        {
+          "period": "all",
+          "type": "budget",
+          "value": 100,
+          "goal_type": "all",
+          "goals": {},
+          "affiliate_type": "all",
+          "affiliates": []
+        }
+      ],
+      "commission_tiers" : [
+        {
+          "affiliate_type": "exact",
+          "affiliates": [
+              1
+          ],
+          "goals": [],
+          "timeframe": "month",
+          "type": "budget",
+          "value": 55.6,
+          "target_goals": [],
+          "modifier_type": "to_percent",
+          "modifier_value": 10.02,
+          "modifier_payment_type": "payout"
+        }
+      ],
+      "caps_timezone": "Europe/Moscow",
+      "strictly_isp": [],
+      "restriction_isp": [],
+      "strictly_devices": [],
+      "disabled_choice_postback_status": false,
+      "updated_at": "2019-01-07 11:41:52",
+      "created_at": "2019-01-05 11:08:31",
+      "caps_status": null,
+      "search_empty_sub": null,
+      "allow_impressions": false,
+      "smartlink_categories": [],
+      "click_session": "1y",
+      "minimal_click_session": null,
+      "io_document": null,
+      "uniq_ip_only": false,
+      "reject_not_uniq_ip": false
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "isps":[
+      {
+         "country":"KZ",
+         "name":"reliablesite.net llc"
+      },
+      {
+         "country":"KZ",
+         "name":"smartnet too"
+      },
+      {
+         "country":"KZ",
+         "name":"betting office olimp kz llc"
+      }
+   ],
+   "pagination":{
+      "page":1,
+      "per_page":2147483647,
+      "total_count":3
+   },
+   "status":1
+}

@@ -1,0 +1,83 @@
+{
+    "status": 1,
+    "referrals": {
+        "2": {
+            "id": 2,
+            "created_at": "2019-05-04 16:55:58",
+            "updated_at": "2019-05-04 16:57:32",
+            "email": "email@domain.aff",
+            "login": "login",
+            "ref_percent": null,
+            "name": null,
+            "notes": "Notes",
+            "manager": null,
+            "status": "active",
+            "level": 0,
+            "payment_systems": [
+                {
+                    "id": 1,
+                    "active": 0,
+                    "system": "Webmoney",
+                    "fields": {
+                        "1": "11111",
+                        "2": "22222"
+                    }
+                }
+            ],
+            "customFields": [
+                {
+                    "name": "Skype",
+                    "value": "skype",
+                    "label": "skype",
+                    "id": 1
+                }
+            ],
+            "balance": {
+                "RUB": {
+                    "balance": 0,
+                    "hold": 0,
+                    "available": 0
+                },
+                "USD": {
+                    "balance": 0,
+                    "hold": 0,
+                    "available": 0
+                },
+                "EUR": {
+                    "balance": 0,
+                    "hold": 0,
+                    "available": 0
+                },
+                "BTC": {
+                    "balance": 0,
+                    "hold": 0,
+                    "available": 0
+                }
+            },
+            "offersCount": 1,
+            "api_key": "api_key",
+            "address_1": "adress 1",
+            "address_2": "adress 2",
+            "city": "New York",
+            "country": "US",
+            "zip_code": "220089",
+            "phone": "375291111111",
+            "ref": "1",
+            "sub_accounts": {
+                "1": {
+                    "value": "",
+                    "except": 0
+                },
+                "2": {
+                    "value": "",
+                    "except": 0
+                }
+            }
+        }
+    },
+    "pagination": {
+        "per_page": 100,
+        "total_count": 1,
+        "page": 1
+    }
+}

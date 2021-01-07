@@ -1,0 +1,36 @@
+{
+   "status":1,
+   "advertisers":[
+      {
+         "id":"505998ea5caf25a003000000",
+         "title":"....",
+         "contact":null,
+         "email":"...",
+         "url":"http:\/\/affise.com",
+         "manager":"",
+         "manager_obj":null,
+         "allowed_ip":[
+
+         ],
+         "skype":null,
+         "note":null,
+         "hash_password":null,
+         "offers":"0",
+         "has_user":false,
+         "address_1": "...",
+         "address_2": "...",
+         "city": "Moscow",
+         "country": "RU",
+         "zip_code": "...",
+         "vat_code": "...",
+         "updated_at":null,
+         "created_at":null
+      }
+   ],
+   "pagination":{
+      "per_page":100,
+      "total_count":183,
+      "page":1,
+      "next_page":2
+   }
+}

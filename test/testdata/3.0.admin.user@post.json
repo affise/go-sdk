@@ -1,0 +1,17 @@
+{
+   "status":1,
+   "user":{
+      "id":"594927bd7e28fe1c4a8b4569",
+      "first_name":"User",
+      "last_name":"Affise",
+      "work_hours": null,
+      "email":"user@affise.com",
+      "skype":null,
+      "api_key": "ec90ee1e00fe445ab1361e994ed9a483",
+      "roles":[
+        "ROLE_ADMIN"
+      ],
+      "updated_at": "2020-04-30 13:45:07",
+      "created_at": "2020-04-30 13:45:07"
+   }
+}

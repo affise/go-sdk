@@ -1,0 +1,156 @@
+{
+   "status":1,
+   "offers":[
+      {
+         "id":902,
+         "offer_id":"5718dac83b7d9bf8588b4579",
+         "title":"...",
+         "preview_url":"....",
+         "description":"...",
+         "cr":199850,
+         "epc":298988.33,
+         "logo":"http:\/\/affise.admin\/images\/cpa\/logos\/2602108452.png",
+         "stop_at":"",
+         "sources":[
+            {
+               "id":"51f531f53b7d9b1e0382f6d9",
+               "title":"Web sites",
+               "allowed":1
+            }
+         ],
+         "categories":[
+            "..."
+         ],
+         "full_categories":[
+            {
+               "id":"5368afb23b7d9b4d5d505342",
+               "title":"..."
+            }
+         ],
+         "payments":[
+            {
+               "countries":[
+                  "US"
+               ],
+               "cities":[
+
+               ],
+               "country_exclude":false,
+               "title":"...",
+               "goal":"1",
+               "revenue":150,
+               "currency":"USD",
+               "type":"fixed",
+               "devices":[
+
+               ],
+               "os":[
+
+               ]
+            }
+         ],
+         "required_approval":true,
+         "landings":[
+
+         ],
+         "is_cpi":false,
+         "creatives":[
+
+         ],
+         "creatives_zip":null,
+         "links":[
+            {
+               "id":null,
+               "title":null,
+               "hash":null,
+               "url":"http:\/\/affise.tds\/click?pid=610\u0026offer_id=902",
+               "postbacks":[
+
+               ],
+               "created":null
+            }
+         ],
+         "macro_url":null,
+         "link":"http:\/\/affise.tds\/click?pid=610\u0026offer_id=902",
+         "use_https":false,
+         "use_http":true,
+         "hold_period":0,
+         "caps": [
+             {
+                "period": "day",
+                "type": "conversions",
+                "value": 100,
+                "goal_type": "exact",
+                "goals": {
+                    "1" : "Install",
+                    "2" : "Register"
+                 }
+             },
+             {
+                 "period": "month",
+                 "type": "budget",
+                 "value": 100,
+                 "goal_type": "each",
+                 "goals": {}
+             },
+             {
+                 "period": "all",
+                 "type": "budget",
+                 "value": 100,
+                 "goal_type": "all",
+                 "goals": {}
+             }
+         ],
+         "targeting": [
+           {
+             "country": {
+                "allow": [],
+                "deny": []
+             },
+             "region": {
+               "allow": [],
+               "deny": []
+             },
+             "city": {
+               "allow": [],
+               "deny": []
+             },
+             "os": {
+               "allow": [],
+               "deny": []
+             },
+             "isp": {
+               "allow": [],
+               "deny": []
+             },
+             "ip": {
+               "allow": [],
+               "deny": []
+             },
+             "browser": {
+               "allow": [],
+               "deny": []
+             },
+             "brand": {
+               "allow": [],
+               "deny": []
+             },
+             "device_type": [],
+             "connection": [],
+             "affiliate_id": [],
+             "sub": {
+               "allow": [],
+               "deny": [],
+               "deny_groups": []
+             }
+           }
+         ]
+      }
+   ],
+   "pagination":{
+      "per_page":1,
+      "total_count":127,
+      "page":1,
+      "next_page":2
+   }
+}
